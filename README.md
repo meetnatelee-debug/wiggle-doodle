@@ -1,8 +1,8 @@
-# ✏️ 手绘抖动线条 · 手账涂鸦视频生成器
+ 手绘抖动线条 · 手账涂鸦视频生成器
 
-**不用 PR / AE，打开网页就能给照片加会抖动的手绘涂鸦，一键导出 Vlog 视频。**
+不用 PR / AE，打开网页就能给照片加会抖动的手绘涂鸦，一键导出 Vlog 视频。
 
-👉 **在线使用：https://meetnatelee-debug.github.io/wiggle-doodle/**（手机、电脑都能用）
+https://meetnatelee-debug.github.io/wiggle-doodle/（手机、电脑都能用）
 
 ![界面预览](images/preview.jpg)
 
